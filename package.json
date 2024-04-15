@@ -1,0 +1,21 @@
+{
+  "name": "@baselinejs/create-app",
+  "version": "0.0.1",
+  "description": "Create a new Baseline app",
+  "main": "index.js",
+  "bin": "./index.js",
+  "files": [
+		"index.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BaselineJS",
+  "license": "MIT",
+  "dependencies": {
+    "tar": "7.0.0"
+  },
+  "engines": {
+		"node": ">=12"
+	}
+}
